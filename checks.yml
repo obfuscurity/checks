@@ -19,9 +19,43 @@
   url: https://tubesandlube.com
 - id: http-nbviewer.ipython.org
   url: http://nbviewer.ipython.org
+- id: http-developer.rackspace.com
+  url: http://developer.rackspace.com
+- id: https-developer.rackspace.com
+  url: https://developer.rackspace.com
 - id: https-www.hostedgraphite.com
   url: https://www.hostedgraphite.com
 - id: http-www.indeed.com
   url: http://www.indeed.com
 - id: http-obfuscurity.com
   url: http://obfuscurity.com
+- id: http-www.unwiredcouch.com
+  url: http://www.unwiredcouch.com
+- id: http-developer.mozilla.org
+  url: https://developer.mozilla.org/en-US/
+- id: http-www.octolabs.com
+  url: http://www.octolabs.com
+- id: http-www.cloudhdr.com
+  url: http://www.cloudhdr.com
+- id: https-api.canary.io-health
+  url: https://api.canary.io/health
+- id: https-bank.simple.com-signin
+  url: https://bank.simple.com/signin
+- id: http-conube.com.br
+  url: http://conube.com.br
+- id: http-bit.ly
+  url:  http://bit.ly
+- id: https-bit.ly
+  url:  https://bit.ly
+- id: http-openstack.org
+  url: http://www.openstack.org
+- id: http-review.openstack.org
+  url: https://review.openstack.org
+- id: http-zuul.openstack.org
+  url: http://zuul.openstack.org/
+- id: https-disqus.com
+  url: https://disqus.com
+- id : http-www.marktplaats.nl
+  url: http://www.marktplaats.nl
+- id: http-www.kijiji.ca
+  url: http://www.kijiji.ca
